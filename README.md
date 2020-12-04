@@ -2,4 +2,4 @@
 
 ------
 
-Artifact for our submitted manuscript: "Exploring Binary Lifters Through the Lens of Downstream Applications"
+Artifact for our submitted manuscript: "Demystifying Binary Lifters Through the Lens of Downstream Applications"
