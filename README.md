@@ -1,4 +1,4 @@
-# ir_lifting_data (ASPLOS 2021 artifacts)
+# ir_lifting_data (IEEE S&P 2021 artifacts)
 
 ------
 
